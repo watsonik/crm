@@ -1,7 +1,7 @@
 {
   "name": "crm",
   "version": "1.0.0",
-  "description": "crm backend",
+  "description": "https://www.linkedin.com/learning/express-essential-training",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
